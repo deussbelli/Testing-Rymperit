@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 function calculateAge($birthDate) {
     $birthDate = new DateTime($birthDate);
     $today = new DateTime('today');
@@ -7,4 +7,4 @@ function calculateAge($birthDate) {
 }
 $age = calculateAge('1990-01-01');
 echo "Age: $age";
-?>
+?> -->
